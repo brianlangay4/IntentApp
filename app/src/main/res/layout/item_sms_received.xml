@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- item_sms_received_main2.xml -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/cont10"
+    android:layout_marginTop="10dp"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/senderTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="@color/d0" />
+
+    <TextView
+        android:id="@+id/messageTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/senderTextView"
+        android:layout_marginTop="2dp"
+        android:padding="4dp"
+        android:textSize="14sp"
+        android:textColor="@color/d0" />
+
+    <!-- Add timestamp TextView if needed -->
+
+</RelativeLayout>
