@@ -6,11 +6,13 @@
 #BRIAN BARNABAS LANGAY
 2322190027
 ##
+![intent2](https://github.com/brianlangay4/IntentApp/assets/67788456/5295961c-64c8-41e6-a0e5-2e7968c9a737)
 
 
 ## Project Overview
 
-IntentApp is a lightweight Android chat application designed to facilitate seamless communication between users. Leveraging the power of Intents, this app enables sending and receiving messages between two activities. The project is implemented in Java using Android Studio, making it accessible and adaptable.
+IntentApp is a lightweight Android chat application designed to facilitate seamless communication between two Activities users. Leveraging the power of Intents and recyclerView, this app enables sending and receiving messages between two activities. The project is implemented in Java using Android Studio, making it accessible and adaptable.
+The Concept of the app is to get messagest in edit text and capture them in recyclerView with the container layouts and split into two way communication Design to show social media represen of communication between users the two activities communicate through intent put and get and recyclerView logic to display the messages in chat manner.
 
 ## Tools and Technologies
 
