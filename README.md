@@ -122,4 +122,4 @@ Ensure each class or function has a single responsibility, following the Single 
 
 ## Conclusion
 
-IntentApp provides a solid foundation for building more advanced chat applications on the Android platform. Its modular and well-organized structure, coupled with clear documentation, makes it an ideal starting point for developers looking to explore Android app development using Java and related technologies. The app embraces simplicity, promoting ease of understanding and extensibility for future enhancements.
+IntentApp provides a simple foundation for building  chat stimulation applications on the Android platform. Its modular and well-organized structure, coupled with clear documentation, makes it an ideal starting point for building chat systems. The app embraces simplicity, promoting ease of understanding and extensibility for future enhancements.
