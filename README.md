@@ -3,7 +3,7 @@
 
 
 ##
-#BRIAN BARNABAS LANGAY
+BRIAN BARNABAS LANGAY
 2322190027
 ##
 ![intent2](https://github.com/brianlangay4/IntentApp/assets/67788456/5295961c-64c8-41e6-a0e5-2e7968c9a737)
